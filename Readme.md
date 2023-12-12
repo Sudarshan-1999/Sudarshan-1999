@@ -2,9 +2,11 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 
-<img align="right" alt="Devops" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*oHvNnllcUKXl-MwpJVF1Xg.gif"/>
+<img align="center" alt="Devops" width="400" src="devOps-trends.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshan-1999&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan-1999" /> </p>
-
+<p align="center">
+ <img align="right" alt="Devops" width="400" src="aws_devops.gif"/>
+</p>
 
 <p align="left">
 </p>
