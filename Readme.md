@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Damahe</h1>
 <h3 align="center">A passionate DevOps Engineer</h3> 
 <div class="row">
-  <div class="column"><img align="center" alt="Devops" src="devOps-trends.gif" width="400" /></div>
-  <div class="column"><img align="center" alt="Devops" width="600" src="aws_devops.gif"/></div>
+  <div class="column"><img align="center" alt="Devops" src="devOps-trends.gif" /></div>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshan-1999&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan-1999" /> </p>
