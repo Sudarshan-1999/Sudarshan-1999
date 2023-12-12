@@ -15,4 +15,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshan-1999&show_icons=true&locale=en" alt="sudarshan-1999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-1999&" alt="sudarshan-1999" /></p>
-![ Sudarshan's Graph ](https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-1999&custom_title=Sudarshan%20Github%20Activity%20Graph%27s&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+!<p>
+  <img align="centre" src"https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-1999&custom_title=Sudarshan%20Github%20Activity%20Graph%27s&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"
+/>
+</p>
